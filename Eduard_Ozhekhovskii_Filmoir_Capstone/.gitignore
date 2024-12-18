@@ -1,0 +1,12 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+
+package-lock.json
+client/package-lock.json
+server/package-lock.json
+
+*.log
+
+.DS_Store
+Thumbs.db

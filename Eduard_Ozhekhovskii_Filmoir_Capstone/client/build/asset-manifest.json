@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3af3bb4e.css",
+    "main.js": "/static/js/main.6f6202af.js",
+    "static/media/Shrek.ttf": "/static/media/Shrek.cc44f6a6e7980f3277e8.ttf",
+    "index.html": "/index.html",
+    "main.3af3bb4e.css.map": "/static/css/main.3af3bb4e.css.map",
+    "main.6f6202af.js.map": "/static/js/main.6f6202af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3af3bb4e.css",
+    "static/js/main.6f6202af.js"
+  ]
+}
